@@ -37,16 +37,16 @@ York University representative to attend state wide **hackathon**  against other
 - __Cloud__: Google cloud,AWS .  
 - __Database__ : SQL,Firebase by google .  
 - __Frameworks__ : Flutter , Vue.js ,Django,Flask ,Node , python-selenium ,Tensorflow   
-- __Embeded system__ : 
+- __Embeded system__ : protyping , CPU design , RISC-V instruction set .  
 - __Git__ : Using git protocols , unit testing .  
 - __Security and cryptography__ : Wifi sniffing , MITM attacks , web-server port scanning , SQL injections ...   
-## Experience 
 - __Data scraping__ : Scraping data on website using py-selenium 
 - Handling and fixing bugs on github open source projects  
 - __Machine learning__ : Building computer vision  classifier models using pre-train models . 
 - __CRUD apps__ building using django with HTML and CSS
+## Experience 
 - __Appications security__: XSS injections ,Password cracking using Hydra or John the ripper , port scanning  
-
+- __Create business solution__ :  
 ## Projects 
 - __HUMIX__ , a temperature and relative humidity from Arduino and DHT11  
     - Implemented in c++ . 
@@ -56,8 +56,9 @@ York University representative to attend state wide **hackathon**  against other
 
 - __Insta scrapper__  a script to scrape and download instagram post feed : 
     - Implemented in python 
-    - This was done to help an instagram clothing business control 
-
+    - The aim of project was to customize a business solution for an online business 
+    - The script helped the shop automate their inventory update ,limiting the manual work by human .  
+    - Source : 
 
 <!-- ### Footer
 
