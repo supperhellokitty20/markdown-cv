@@ -58,8 +58,7 @@ York University representative to attend state wide **hackathon**  against other
     - Implemented in python 
     - The aim of project was to customize a business solution for an online business 
     - The script helped the shop automate their inventory update ,limiting the manual work by human .  
-    - Source : 
-
+    - Source : https://github.com/supperhellokitty20/insta_scrappy
 <!-- ### Footer
 
 Last updated: May 2013 -->
