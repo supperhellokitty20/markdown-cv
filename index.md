@@ -44,9 +44,11 @@ York University representative to attend state wide **hackathon**  against other
 - Handling and fixing bugs on github open source projects  
 - __Machine learning__ : Building computer vision  classifier models using pre-train models . 
 - __CRUD apps__ building using django with HTML and CSS
+
 ## Experience 
 - __Appications security__: XSS injections ,Password cracking using Hydra or John the ripper , port scanning  
-- __Create business solution__ :  
+- __Freelance coding__ :  
+
 ## Projects 
 - __HUMIX__ , a temperature and relative humidity from Arduino and DHT11  
     - Implemented in c++ . 
@@ -58,7 +60,8 @@ York University representative to attend state wide **hackathon**  against other
     - Implemented in python 
     - The aim of project was to customize a business solution for an online business 
     - The script helped the shop automate their inventory update ,limiting the manual work by human .  
-    - Source : https://github.com/supperhellokitty20/insta_scrappy
+    - Source :https://github.com/supperhellokitty20/insta_scrappy 
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
