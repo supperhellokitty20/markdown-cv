@@ -1,87 +1,62 @@
----
+--- 
 layout: cv
-title: Isaac Newtons's CV
+title: Tuan's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
+
+# Nguyen Duc Quang Tuan 
+<br> 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="">E-mail: tuanheo004@icloud.com</a>
+| <a href="">Phone: 0938349863</a>| 
+<a href="https://github.com/supperhellokitty20">Git Hub</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+  __York University ,Toronto ,Canada__   
 
-`1654-1660`
-__The King's School, Grantham.__
+- Major in Computer Science . 
+ 
+## Certifications and Achievement 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2019`
+ *Ielts Academic*  overall band 7.0 .  
 
-- Sizar
+`2019` 
+Entrace Scholarship of **York University** worth 3000 Canadian dollars .  
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2020`
+York University representative to attend state wide **hackathon**  against other University.  
 
 
+## Skills 
+- __Programming Languages__ : 
+    - Backend : Python ,Javascript,Java .
+    - Front end : HTML ,Sass ,CSS  .
+- __Linux__ : Bash shell scripting , Unix based commands .  
+- __Cloud__: Google cloud,AWS .  
+- __Database__ : SQL,Firebase by google .  
+- __Frameworks__ : Flutter , Vue.js ,Django,Flask ,Node , python-selenium ,Tensorflow   
+- __Embeded system__ : 
+- __Git__ : Using git protocols , unit testing .  
+- __Security and cryptography__ : Wifi sniffing , MITM attacks , web-server port scanning , SQL injections ...   
+## Experience 
+- __Data scraping__ : Scraping data on website using py-selenium 
+- Handling and fixing bugs on github open source projects  
+- __Machine learning__ : Building computer vision  classifier models using pre-train models . 
+- __CRUD apps__ building using django with HTML and CSS
+- __Appications security__: XSS injections ,Password cracking using Hydra or John the ripper , port scanning  
 
-## Publications
+## Projects 
+- __HUMIX__ , a temperature and relative humidity from Arduino and DHT11  
+    - Implemented in c++ . 
+    - Easy and fast setup.  
+    - Using HD44780 16x2 LCD to output through i2c channel .
+    - Source : https://github.com/supperhellokitty20/HUMIX 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- __Insta scrapper__  a script to scrape and download instagram post feed : 
+    - Implemented in python 
+    - This was done to help an instagram clothing business control 
 
 
 <!-- ### Footer
