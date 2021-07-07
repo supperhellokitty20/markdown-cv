@@ -37,7 +37,7 @@ York University representative to attend state wide **hackathon**  against other
 - __Cloud__: Google cloud,AWS .  
 - __Database__ : SQL,Firebase by google .  
 - __Frameworks__ : Flutter , Vue.js ,Django,Flask ,Node , python-selenium ,Tensorflow   
-- __Embeded system__ : protyping , CPU design , RISC-V instruction set .  
+- __Embedded system__ : protyping , CPU design , RISC-V instruction set .  
 - __Git__ : Using git protocols , unit testing .  
 - __Security and cryptography__ : Wifi sniffing , MITM attacks , web-server port scanning , SQL injections ...   
 - __Data scraping__ : Scraping data on website using py-selenium 
